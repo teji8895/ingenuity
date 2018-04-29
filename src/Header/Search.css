@@ -1,0 +1,24 @@
+
+
+
+
+div.Relative {
+    position: Relative;
+    left : 140px;
+    top:65px;
+    width:65%;
+
+  
+}
+div.eqms-logo
+{
+    position: absolute;
+    left :auto;
+    height:100px;
+    width:8%;
+
+}
+.Searchform
+{
+    width:1px;
+}

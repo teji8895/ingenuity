@@ -1,0 +1,18 @@
+div.Header{
+  position:absolute;
+  width:70%;
+}
+div.Middle
+{
+  position:relative ;
+  width:100%;
+  top:90px;
+
+}
+div.Footer
+{
+
+  position:relative;
+  top:200px;
+ 
+}
